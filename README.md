@@ -7,7 +7,7 @@
 
 ## 🎬 Showcase
 
-![Vanguard Studio Showcase](public/showcase.webp)
+![Vanguard Studio Showcase](public/showcase.png)
 
 ---
 
